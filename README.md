@@ -4,6 +4,20 @@ English | [中文](README_CN.md)
 
 > Start from a simple single LLM request and progressively evolve into a full Agent architecture.
 
+## show
+自主询问 ask info
+
+<img width="718" height="326" alt="546456" src="https://github.com/user-attachments/assets/bfc07f64-87f7-42ed-954e-8a66755d57eb" />
+
+部署项目 devops
+
+<img width="652" height="366" alt="aa" src="https://github.com/user-attachments/assets/53b0b5f3-f4b0-484e-a4e7-584490667085" />
+
+plan mode
+
+<img width="849" height="191" alt="捕获" src="https://github.com/user-attachments/assets/ae950858-28e1-4e61-9d82-afc1400c7b79" />
+
+
 ## Modules
 
 | Module | Description |
