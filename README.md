@@ -11,7 +11,8 @@ English | [中文](README_CN.md)
 
 部署项目 devops
 
-<img width="652" height="366" alt="aa" src="https://github.com/user-attachments/assets/53b0b5f3-f4b0-484e-a4e7-584490667085" />
+<img width="730" height="411" alt="4534535" src="https://github.com/user-attachments/assets/71bcb2c8-f5c0-453a-af0c-e205a01fee21" />
+
 
 plan模式 plan mode
 
