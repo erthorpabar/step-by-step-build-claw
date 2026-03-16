@@ -6,10 +6,15 @@
 
 ## 
 自主询问
+
 <img width="718" height="326" alt="546456" src="https://github.com/user-attachments/assets/bfc07f64-87f7-42ed-954e-8a66755d57eb" />
+
 部署项目
+
 <img width="652" height="366" alt="aa" src="https://github.com/user-attachments/assets/53b0b5f3-f4b0-484e-a4e7-584490667085" />
+
 plan模式
+
 <img width="849" height="191" alt="捕获" src="https://github.com/user-attachments/assets/ae950858-28e1-4e61-9d82-afc1400c7b79" />
 
 ## 目录
